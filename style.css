@@ -1,7 +1,3 @@
-body {
-	
-}
-
 #banner {
 	width:100%;
 }
